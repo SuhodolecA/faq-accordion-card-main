@@ -1,5 +1,5 @@
 # Frontend Mentor - FAQ Accordion Card
-
+[Link to my solution:]( https://suhodoleca.github.io/faq-accordion-card-main/)
 ![Design preview for the FAQ Accordion Card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
